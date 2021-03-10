@@ -1,0 +1,17 @@
+h1{
+    font-size: 65px;
+    color:rebeccapurple;
+    text-align: center;
+}
+h2{
+    font-size: 35px;
+    color:black;
+    border:3px solid=royalblue;
+    background-color:springgreen ;
+    text-align: center;
+}
+body{
+    background-color: hotpink;
+    background-size: cover;
+    opacity: 1;
+}
